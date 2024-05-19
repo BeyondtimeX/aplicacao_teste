@@ -1,0 +1,50 @@
+streamlit
+plotly
+pandas
+openpyxl
+names
+
+Streamlit
+Descrição: Streamlit é uma biblioteca Python de código aberto que facilita a criação de aplicativos web interativos e bonitos para visualização de dados e aprendizado de máquina.
+Características principais:
+Facilidade de uso: Permite construir aplicativos web com apenas algumas linhas de código Python.
+Interatividade: Oferece widgets como sliders, checkboxes, e botões para criar interfaces interativas facilmente.
+Integração com dados: Pode ler dados de diversas fontes, como CSVs, bancos de dados SQL, APIs, e integrá-los de maneira simples.
+Reatividade: Recalcula automaticamente o estado do aplicativo sempre que a entrada do usuário muda.
+Compartilhamento fácil: Hospedagem simplificada com Streamlit Sharing, permitindo compartilhar aplicativos com outros rapidamente.
+Instalação: pip install streamlit
+
+Plotly
+Descrição: Plotly é uma biblioteca gráfica que oferece visualizações interativas e de alta qualidade em Python. É amplamente utilizada para criar gráficos complexos e detalhados para web.
+Características principais:
+Gráficos interativos: Suporte a uma ampla gama de gráficos interativos, como gráficos de linha, dispersão, barras, mapas, etc.
+Personalização: Oferece muitas opções de personalização para ajustar a aparência e comportamento dos gráficos.
+Integração: Integra-se bem com outras bibliotecas e ferramentas de visualização de dados como Dash para criar aplicativos analíticos.
+Exportação: Suporte para exportar gráficos em vários formatos, como PNG, JPEG, SVG, e PDF.
+Instalação: pip install plotly
+
+Pandas
+Descrição: Pandas é uma biblioteca Python poderosa e flexível usada para manipulação e análise de dados. Fornece estruturas de dados como DataFrames, que são altamente eficientes para manipulação de grandes conjuntos de dados.
+Características principais:
+Estruturas de dados: Fornece DataFrames e Series para manipulação de dados tabulares e unidimensionais.
+Leitura e escrita: Suporte para ler e escrever dados em vários formatos, como CSV, Excel, SQL, e JSON.
+Manipulação de dados: Ferramentas robustas para filtrar, agrupar, agregar e transformar dados.
+Alinhamento de dados: Facilita operações de alinhamento e junção de dados com diferentes índices.
+Instalação: pip install pandas
+
+Openpyxl
+Descrição: Openpyxl é uma biblioteca Python usada para ler e escrever arquivos Excel 2010 xlsx/xlsm/xltx/xltm. É amplamente utilizada para automação de tarefas que envolvem planilhas Excel.
+Características principais:
+Leitura e escrita: Capacidade de ler e escrever arquivos Excel.
+Manipulação de planilhas: Criação e modificação de planilhas, células, estilos, gráficos, e fórmulas.
+Compatibilidade: Suporta recursos avançados do Excel como gráficos, tabelas dinâmicas e condicionais.
+Performance: Otimizada para manipular grandes planilhas eficientemente.
+Instalação: pip install openpyxl
+
+Names
+Descrição: Names é uma biblioteca Python usada para gerar nomes aleatórios. Pode ser útil para gerar dados fictícios, testes ou exemplos.
+Características principais:
+Geração de nomes: Gera nomes aleatórios para pessoas, lugares e outras entidades.
+Personalização: Oferece a possibilidade de especificar o gênero dos nomes gerados.
+Uso simples: API simples e fácil de usar para integrar em scripts e projetos de teste.
+Instalação: pip install names
